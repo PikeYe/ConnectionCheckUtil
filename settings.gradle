@@ -1,0 +1,2 @@
+rootProject.name='CheckConnectionWithDNSDemo'
+include ':app'
